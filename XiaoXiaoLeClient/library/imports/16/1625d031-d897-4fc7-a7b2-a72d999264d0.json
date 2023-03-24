@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "可爱消 (68)",
+    "texture": "02bf1667-3f4b-4365-aa1b-0a25abccf1b6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

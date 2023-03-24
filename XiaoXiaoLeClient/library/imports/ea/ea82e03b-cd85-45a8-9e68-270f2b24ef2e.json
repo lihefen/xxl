@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pic_songshu",
+    "texture": "76df2588-e596-415c-8ce2-deecf5507c0f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      111,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      111,
+      103
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

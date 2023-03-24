@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pic_bushu",
+    "texture": "1cf504dc-7934-423c-b7e5-7eab94e605aa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      101,
+      114
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      101,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

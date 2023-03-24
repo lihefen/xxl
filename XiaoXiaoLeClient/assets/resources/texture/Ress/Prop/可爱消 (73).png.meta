@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0c0da260-ef69-4c8b-a009-d432dce53faa",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 89,
+  "height": 87,
+  "platformSettings": {},
+  "subMetas": {
+    "可爱消 (73)": {
+      "ver": "1.0.4",
+      "uuid": "a3b0f9c1-e4ef-4cf3-b531-1f018df9cf43",
+      "rawTextureUuid": "0c0da260-ef69-4c8b-a009-d432dce53faa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 89,
+      "height": 87,
+      "rawWidth": 89,
+      "rawHeight": 87,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

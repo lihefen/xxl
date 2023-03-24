@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "world_starbadge",
+    "texture": "14bb08f1-09af-4951-9f7a-298b947693a2",
+    "atlas": "",
+    "rect": [
+      8,
+      13,
+      341,
+      169
+    ],
+    "offset": [
+      -77.5,
+      30.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

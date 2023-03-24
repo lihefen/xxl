@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/newscripts/EventMng.ts"],"names":[],"mappings":";;;;;AAAA,oBAAoB;AACpB,kBAAe,IAAI,EAAE,CAAC,WAAW,EAAE,CAAC","file":"","sourceRoot":"/","sourcesContent":["// 偷懒，直接用EventTarget\nexport default new cc.EventTarget();"]}

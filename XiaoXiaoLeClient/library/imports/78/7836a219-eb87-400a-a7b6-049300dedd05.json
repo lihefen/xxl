@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_jifen",
+    "texture": "fae254ac-d426-4d75-9e6f-2da50a83fb83",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      105,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+
+world_starbadge.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+world_effect
+  rotate: false
+  xy: 180, 12
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+world_reward
+  rotate: false
+  xy: 2, 2
+  size: 176, 180
+  orig: 176, 180
+  offset: 0, 0
+  index: -1

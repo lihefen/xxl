@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "checkpoint_5",
+    "texture": "b000d3be-c248-4dc6-9fc0-ae4f9a852fda",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      113,
+      124
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      113,
+      124
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

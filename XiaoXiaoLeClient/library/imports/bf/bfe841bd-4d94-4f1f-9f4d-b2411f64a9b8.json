@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "剩余步数",
+    "texture": "f01ef98b-816b-4107-9beb-b9af1bbaddac",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      71,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      71,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

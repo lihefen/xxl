@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pic_sige",
+    "texture": "f50b4bc4-fb7c-4ed3-a54e-7426bace7e09",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

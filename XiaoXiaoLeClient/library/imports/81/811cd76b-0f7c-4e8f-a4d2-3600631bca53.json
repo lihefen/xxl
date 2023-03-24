@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lvUI_06",
+    "texture": "ee484eb1-a8a2-4f10-aa56-04a601faf256",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      69,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

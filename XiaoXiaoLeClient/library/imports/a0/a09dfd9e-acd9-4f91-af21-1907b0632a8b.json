@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_quanpingtai",
+    "texture": "acc8acf7-8c9c-4443-9527-4c20057fc505",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      160,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      52
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

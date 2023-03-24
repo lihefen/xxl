@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_daoju3",
+    "texture": "b345752d-5c43-4b79-ab58-8427c28ae47c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

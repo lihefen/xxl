@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "box_mission_L",
+    "texture": "1f186413-087f-45fa-9f5d-3737bf26a07d",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      528,
+      239
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      532,
+      244
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

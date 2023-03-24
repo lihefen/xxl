@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pic_shangdianban",
+    "texture": "f7219763-086e-4a70-a56e-60401e80aff3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      503,
+      540
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      503,
+      540
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

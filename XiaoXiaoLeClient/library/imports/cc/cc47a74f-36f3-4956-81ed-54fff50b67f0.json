@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pic_tili",
+    "texture": "3110bb85-95cf-4073-b2cf-3f2dddc16c66",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

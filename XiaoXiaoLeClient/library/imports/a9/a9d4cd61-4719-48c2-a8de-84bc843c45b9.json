@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rank_select_RETINA",
+    "texture": "714f033b-2df7-4acb-a4fe-61ae70b81154",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      546,
+      109
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      546,
+      110
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

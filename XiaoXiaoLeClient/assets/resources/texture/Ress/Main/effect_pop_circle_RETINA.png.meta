@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "798a33c9-658f-47e8-9453-fec93bd8d61c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 167,
+  "height": 169,
+  "platformSettings": {},
+  "subMetas": {
+    "effect_pop_circle_RETINA": {
+      "ver": "1.0.4",
+      "uuid": "ebd5519a-436f-4ed5-abed-f4f3d10f9fa1",
+      "rawTextureUuid": "798a33c9-658f-47e8-9453-fec93bd8d61c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 167,
+      "height": 167,
+      "rawWidth": 167,
+      "rawHeight": 169,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

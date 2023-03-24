@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_free1_副本",
+    "texture": "34bb9065-42d2-464e-a659-6c348401ef87",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      199,
+      64
+    ],
+    "offset": [
+      -0.5,
+      3.5
+    ],
+    "originalSize": [
+      200,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

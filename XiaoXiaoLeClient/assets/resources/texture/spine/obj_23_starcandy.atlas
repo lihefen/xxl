@@ -1,0 +1,104 @@
+
+obj_23_starcandy.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Drop_Label_Width
+  rotate: false
+  xy: 72, 27
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+boom_candy1
+  rotate: false
+  xy: 286, 10
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+boom_candy2
+  rotate: false
+  xy: 310, 167
+  size: 89, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+boom_circle1
+  rotate: true
+  xy: 401, 175
+  size: 79, 90
+  orig: 79, 90
+  offset: 0, 0
+  index: -1
+boom_fx1
+  rotate: false
+  xy: 191, 113
+  size: 117, 111
+  orig: 117, 111
+  offset: 0, 0
+  index: -1
+boom_fx2
+  rotate: true
+  xy: 2, 6
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+boom_white1
+  rotate: false
+  xy: 177, 2
+  size: 107, 109
+  orig: 107, 109
+  offset: 0, 0
+  index: -1
+fx_candy1
+  rotate: false
+  xy: 2, 61
+  size: 173, 83
+  orig: 173, 83
+  offset: 0, 0
+  index: -1
+fx_line1
+  rotate: false
+  xy: 2, 226
+  size: 306, 28
+  orig: 306, 28
+  offset: 0, 0
+  index: -1
+fx_star1
+  rotate: true
+  xy: 310, 94
+  size: 71, 89
+  orig: 71, 89
+  offset: 0, 0
+  index: -1
+fx_star2
+  rotate: true
+  xy: 401, 90
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+fx_star3
+  rotate: false
+  xy: 370, 18
+  size: 78, 70
+  orig: 78, 70
+  offset: 0, 0
+  index: -1
+fx_star4
+  rotate: false
+  xy: 450, 40
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+fx_volt1
+  rotate: false
+  xy: 2, 146
+  size: 187, 78
+  orig: 187, 78
+  offset: 0, 0
+  index: -1

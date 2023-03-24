@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup_attenmocha",
+    "texture": "7f7aa9eb-4540-452c-92c1-d6be5126089b",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      247,
+      239
+    ],
+    "offset": [
+      -1.5,
+      5.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

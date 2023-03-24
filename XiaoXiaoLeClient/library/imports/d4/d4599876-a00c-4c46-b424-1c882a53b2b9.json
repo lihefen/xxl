@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pic_shengyubushu",
+    "texture": "eaf658c7-8eba-49ef-906c-15c49827c875",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      117,
+      125
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      117,
+      125
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

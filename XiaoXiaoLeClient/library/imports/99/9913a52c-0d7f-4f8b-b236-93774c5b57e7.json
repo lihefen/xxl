@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pic_mubiaodi",
+    "texture": "dca9e50d-ba7c-4bc6-b455-534ad4ca27bd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      368,
+      117
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      368,
+      117
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

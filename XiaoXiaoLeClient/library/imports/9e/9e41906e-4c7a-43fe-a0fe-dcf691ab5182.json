@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pic_gezida",
+    "texture": "de05ee48-49e2-47c3-af3f-864b07f70006",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      712,
+      711
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      712,
+      711
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

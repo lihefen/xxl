@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "obj_23_starcandy",
+    "texture": "fc57c524-c124-40a8-bc22-a6377358f8ed",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      487,
+      250
+    ],
+    "offset": [
+      -9.5,
+      0
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

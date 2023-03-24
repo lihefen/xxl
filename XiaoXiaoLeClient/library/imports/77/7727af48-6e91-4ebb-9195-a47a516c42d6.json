@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pic_tengmangen",
+    "texture": "0e18d56e-3205-4e21-85fc-f4b742097154",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      618,
+      203
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      622,
+      203
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

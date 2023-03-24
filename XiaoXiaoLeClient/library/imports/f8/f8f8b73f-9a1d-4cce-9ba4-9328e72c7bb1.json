@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pic_kaishiqian",
+    "texture": "ad4a8217-be84-490a-8bc9-5e1bf268401c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      487,
+      534
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      487,
+      534
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

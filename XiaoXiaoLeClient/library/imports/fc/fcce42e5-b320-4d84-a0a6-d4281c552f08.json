@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_zhibojian",
+    "texture": "3a4b55b0-8638-40c1-a6d0-328c48b71683",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      160,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      52
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

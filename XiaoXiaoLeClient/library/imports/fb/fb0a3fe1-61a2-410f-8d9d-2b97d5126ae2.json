@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_guanka",
+    "texture": "15e3cd2c-7eaa-4644-baf5-7f56bcb71d87",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      106,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      106,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

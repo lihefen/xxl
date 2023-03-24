@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pic_bijindi",
+    "texture": "bf31f004-9b0a-47be-a995-01d7e0e28e4f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      143,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      143,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

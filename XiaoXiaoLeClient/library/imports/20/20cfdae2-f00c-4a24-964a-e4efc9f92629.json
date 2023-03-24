@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pic_tilibuzu",
+    "texture": "3a1245f2-48a5-40df-8fdd-65b261d0b419",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      134,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      134,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

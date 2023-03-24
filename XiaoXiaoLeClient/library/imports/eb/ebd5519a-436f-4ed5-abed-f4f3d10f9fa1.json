@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect_pop_circle_RETINA",
+    "texture": "798a33c9-658f-47e8-9453-fec93bd8d61c",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      167,
+      167
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      167,
+      169
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

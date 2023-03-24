@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pic_ge",
+    "texture": "5b1615c4-ce04-4022-a3a9-f6202fa49723",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      397,
+      1
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      397,
+      1
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

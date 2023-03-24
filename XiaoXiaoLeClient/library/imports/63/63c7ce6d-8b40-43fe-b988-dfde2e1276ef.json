@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pic_jinbibuzuban",
+    "texture": "7225315a-7988-40a6-b012-cfd9187b26fa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      381,
+      194
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      381,
+      194
+    ],
+    "capInsets": [
+      70,
+      70,
+      70,
+      70
+    ]
+  }
+}
